@@ -1,6 +1,7 @@
 {
-    "prefix": "",
+    "clientId": "",
+    "guildId": "",
     "token": "",
-    "embedColor": "",
-    "role": ""
+    "roleID": "",
+    "permID": ""
 }
